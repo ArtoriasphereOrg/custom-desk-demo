@@ -1,0 +1,3 @@
+Update added
+- Keycode number debug
+- LAN internet checker

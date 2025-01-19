@@ -1,0 +1,3 @@
+New update
+- More stable
+- Auto hide option (Not stable)

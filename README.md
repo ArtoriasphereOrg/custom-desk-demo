@@ -1,4 +1,3 @@
-# custom-desk-demo
 # Nodejs & .NET 8 required!
 This is custom desktop project using program overlap
 

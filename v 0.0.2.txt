@@ -1,0 +1,14 @@
+New update
+- Display debug
+- More stable
+- Install and Uninstall are way easier
+- Document / Manual
+- Desktop shortcut size can be change
+- Taskbar customization
+- Video background
+- Website background
+- Multitask foreground (Shift + Window key)
+- Battery display (Laptop)
+- New start screen
+- Computer name now can be change
+- Fix bugs

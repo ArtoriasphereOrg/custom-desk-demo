@@ -8,11 +8,8 @@ Download => Install.bat
 
 ```
 This project was made by Artoriasphere
-
 Head developer - Tsukinatsune
-
 developer - Sanokimako
-
 Tester - m.ps, Payungwong, Doskibidisanuk, oppot, Ajiro, etc
 ```
 

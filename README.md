@@ -15,6 +15,9 @@ Tester - m.ps, Payungwong, Doskibidisanuk, oppot, Ajiro, etc
 ```
 
 - Preview
+
+![7](https://github.com/ArtoriasphereOrg/custom-desk-demo/blob/main/desktop_screenshot_2025-01-19_23-47-09.png?raw=true)
+
 ![1](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-19_20-24-43.png)
 
 ![2](https://github.com/ArtoriasphereOrg/custom-desk-demo/blob/main/desktop_screenshot_2025-01-19_20-24-53.png?raw=true)

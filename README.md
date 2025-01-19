@@ -10,8 +10,8 @@ Download => Install.bat
 - Preview
 ![1](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-19_20-24-43.png)
 
-![alt text](URL_of_the_image)
+![2](https://github.com/ArtoriasphereOrg/custom-desk-demo/blob/main/desktop_screenshot_2025-01-19_20-24-53.png?raw=true)
 
-![alt text](URL_of_the_image)
+![3](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-19_20-25-21.png)
 
-![alt text](URL_of_the_image)
+![4](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-19_20-25-43.png)

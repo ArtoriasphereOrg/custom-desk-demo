@@ -17,3 +17,5 @@ Download => Install.bat
 ![4](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-19_20-25-43.png)
 
 ![5](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/IMG_0150.png)
+
+![6](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-13_19-07-35.png)

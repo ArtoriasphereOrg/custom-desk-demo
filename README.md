@@ -6,6 +6,7 @@ v 0.0.2
 [Download custom desktop](https://drive.google.com/file/d/1a-pf1qHMB6ngFxjQqfsOZMg8EGibv1c5/view?usp=sharing)
 Download => Install.bat
 
+```
 This project was made by Artoriasphere
 
 Head developer - Tsukinatsune
@@ -13,6 +14,7 @@ Head developer - Tsukinatsune
 developer - Sanokimako
 
 Tester - m.ps, Payungwong, Doskibidisanuk, oppot, Ajiro, etc
+```
 
 - Preview
 ![1](https://raw.githubusercontent.com/ArtoriasphereOrg/custom-desk-demo/refs/heads/main/desktop_screenshot_2025-01-19_20-24-43.png)

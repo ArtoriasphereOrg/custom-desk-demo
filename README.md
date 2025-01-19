@@ -5,6 +5,8 @@ v 0.0.2 - 1
 [Download custom desktop](https://drive.google.com/file/d/1a-pf1qHMB6ngFxjQqfsOZMg8EGibv1c5/view?usp=sharing)
 Download => Install.bat
 
+*Warning auto install will be work only if your desktop path is ENGLISH
+
 ```
 This project was made by Artoriasphere
 Head developer - Tsukinatsune

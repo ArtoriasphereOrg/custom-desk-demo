@@ -11,6 +11,7 @@ Download => Install.bat
 This project was made by Artoriasphere
 Head developer - Tsukinatsune
 developer - Sanokimako
+contributor - Starlight
 Tester - m.ps, Payungwong, Doskibidisanuk, oppot, Ajiro, etc
 ```
 

@@ -1,0 +1,2 @@
+Update
+- Fix python auto run bugs

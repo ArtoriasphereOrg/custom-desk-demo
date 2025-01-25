@@ -1,0 +1,13 @@
+Update added
+Better performance
+Keyboard shortcut can be change!
+Document update!
+Add Default wallpaper for first time install
+Selection box!
+
+Python required*
+auto run python server
+file local hosting on device
+
+Crash protection from unstable video record system
+Fix bugs

@@ -11,9 +11,9 @@ Download => Install.bat
 This project was made by Artoriasphere
 head developer - Tsukinatsune
 developer - Sanokimako
-music - Payungwong, Unknown mother goose, Monitoring (Deco27), Ririsya cover, Rokudenashi Sincerely Yours
+music - Kisztst, Unknown mother goose, Monitoring (Deco27), Ririsya cover, Rokudenashi Sincerely Yours
 contributor - Starlight
-tester - m.ps, Payungwong, Doskibidisanuk, oppot, Ajiro, etc
+tester - m.ps, Kisztst, Doskibidisanuk, oppot, Ajiro, etc
 ```
 
 - Preview
